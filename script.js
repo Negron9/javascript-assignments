@@ -1,1 +1,2 @@
-alert("It's Working!");
+console.log("Hello,World!");
+console.log("Welcome to my first java!");
